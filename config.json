@@ -1,0 +1,24 @@
+{
+  "email": "",
+  "password": "",
+  "token": "",
+  "serverVersion": "1.8",
+  "serverIP": "play.vanitymc.co",
+  "realmCommand": "/heroic",
+  "FtopCommand": "/f top", // could be /f wealth
+  "prefix": ".",
+  "embedColor": "#fce803",
+  "enableCommands": {
+    "castle": true,
+    "flist": true,
+    "fshow": true,
+    "ftop": true,
+    "koth": true,
+    "purge": true,
+    "raredrop": true,
+    "reload": true,
+    "rpost": true,
+    "sudo": true,
+    "tps": true
+  }
+}
